@@ -1,2 +1,2 @@
 # Task-App
-This webpage is completely mobile responsive
+A simple Webpage made with HTML, CSS and Javascript which is mobile responsive
